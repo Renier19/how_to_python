@@ -29,14 +29,4 @@ Practice these concepts:
    - Working with CSV files
    - File modes and operations
 
-6. Modules
-   - Importing modules
-   - Creating your own modules
-   - Package management
-
-Project Ideas:
-1. File organizer
-2. Contact book manager
-3. Password generator
-4. Simple text-based game
-5. Data processor (CSV files)
+ 
