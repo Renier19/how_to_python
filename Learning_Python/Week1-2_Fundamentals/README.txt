@@ -30,9 +30,17 @@ Practice these concepts:
    - if/elif/else statements
    - Basic loops (for, while)
 
-Project Ideas:
-1. Simple calculator
-2. Number guessing game
-3. To-do list (basic)
-4. Temperature converter
-5. Basic word counter
+6. Modules
+   - Importing modules
+   - Creating your own modules
+   - Package management
+
+8. Input/Output
+   - Using input() for user input
+   - Printing with formatting (f-strings)
+
+10. Practice Mini-Projects
+   - Calculator (uses operators, input, functions)
+   - To-do list (lists, dictionaries, loops)
+   - Simple guessing game (loops, conditionals, random module)
+
