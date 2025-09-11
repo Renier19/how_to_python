@@ -4,7 +4,7 @@ Practice these concepts:
 1. Variables and Data Types
    - Create variables of different types
    - Practice type conversion
-   - Learn about numbers, strings, booleans
+   - Learn about numbers, strings, boolean
 
 2. Basic Operators
    - Arithmetic operators (+, -, *, /, %, **)
@@ -43,6 +43,7 @@ Practice these concepts:
    - Calculator (uses operators, input, functions)
    - To-do list (lists, dictionaries, loops)
    - Simple guessing game (loops, conditionals, random module)
+
 
 
 
