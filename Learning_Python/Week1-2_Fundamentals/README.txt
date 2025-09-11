@@ -44,6 +44,33 @@ Practice these concepts:
    - To-do list (lists, dictionaries, loops)
    - Simple guessing game (loops, conditionals, random module)
 
+Variables and Data Types
+Create variables of different types (int, float, string, bool)
+Practice type conversion (e.g., int → str, float → int)
+
+Learn about numbers, strings, booleans
+Explore the type() function to check variable types
+Try multiple assignment (x, y, z = 1, 2, 3)
+
+Basic Operators
+Arithmetic operators (+, -, *, /, %, //, **)
+Comparison operators (==, !=, >, <, >=, <=)
+Logical operators (and, or, not)
+
+Input and Output
+Use input() to get user input
+Format output with f-strings (e.g., f"Hello {name}")
+Practice printing variables of different types
+
+Strings Practice
+Indexing and slicing (s[0], s[1:4])
+String methods (.upper(), .lower(), .replace(), .split())
+
+String concatenation and repetition
+Practice Mini-Tasks
+Convert Celsius to Fahrenheit (numbers, type conversion)
+Ask for a name and greet the user (strings, input/output)
+Check if a number is even or odd (numbers, operators, boolean)
 
 
 
