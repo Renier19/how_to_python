@@ -26,9 +26,16 @@ Practice these concepts:
    - The yield keyword
    - Generator pipelines
 
+5. Python Data Structures (Intermediate)
+   - Sets & frozensets
+   - Dictionaries with comprehension
+   - Nested lists/dictionaries
+   - Using defaultdict and Counter from collections
+
 Project Ideas:
 1. Bank account system
 2. Library management system
 3. Student grade tracker
 4. Simple game with classes
 5. Data processing pipeline
+
