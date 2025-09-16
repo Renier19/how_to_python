@@ -71,6 +71,7 @@ Practice Mini-Tasks
 Convert Celsius to Fahrenheit (numbers, type conversion)
 Ask for a name and greet the user (strings, input/output)
 Check if a number is even or odd (numbers, operators, boolean)
+django for server
 
 
 
