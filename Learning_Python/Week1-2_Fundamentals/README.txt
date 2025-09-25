@@ -66,12 +66,13 @@ Strings Practice
 Indexing and slicing (s[0], s[1:4])
 String methods (.upper(), .lower(), .replace(), .split())
 
-String concatenation and repetition
+String concatenation and repetitions
 Practice Mini-Tasks
 Convert Celsius to Fahrenheit (numbers, type conversion)
 Ask for a name and greet the user (strings, input/output)
 Check if a number is even or odd (numbers, operators, boolean)
 django for server
+
 
 
 
